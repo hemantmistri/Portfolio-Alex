@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Kiln project preview</title>
+  <desc id="desc">Warm minimalist preview with structured blocks.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#11100d"/>
+      <stop offset="100%" stop-color="#191512"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <rect x="90" y="90" width="620" height="420" rx="32" fill="#1a1614" stroke="#2d2825"/>
+  <rect x="130" y="130" width="220" height="280" rx="18" fill="#d8b68a" opacity="0.76"/>
+  <rect x="380" y="130" width="260" height="120" rx="18" fill="#efebe7" opacity="0.92"/>
+  <rect x="380" y="270" width="260" height="140" rx="18" fill="#2d2a29"/>
+  <circle cx="520" cy="350" r="60" fill="#d5a673" opacity="0.72"/>
+  <text x="108" y="520" fill="#f5f5f4" font-family="Arial, sans-serif" font-size="28">KILN / CERAMICS</text>
+</svg>

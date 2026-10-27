@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Northline project preview</title>
+  <desc id="desc">Abstract framed dark artwork with purple highlights.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#101114"/>
+      <stop offset="100%" stop-color="#09090c"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#7c5cff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#8be9fd" stop-opacity="0.5"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <circle cx="620" cy="170" r="170" fill="url(#glow)" opacity="0.35"/>
+  <path d="M70 420C210 320 250 240 380 250C510 260 560 190 740 90V520H70Z" fill="#14161b" opacity="0.9"/>
+  <path d="M120 460C230 350 300 300 430 312C525 321 620 250 682 180" stroke="#8f7cff" stroke-width="3" fill="none" opacity="0.8"/>
+  <circle cx="680" cy="180" r="8" fill="#8f7cff"/>
+  <rect x="80" y="90" width="220" height="64" rx="32" fill="#171d25" stroke="#2c3140"/>
+  <text x="108" y="130" fill="#f5f5f4" font-family="Arial, sans-serif" font-size="28">01 / NORTHLINE</text>
+</svg>
